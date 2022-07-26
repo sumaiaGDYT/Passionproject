@@ -1,24 +1,33 @@
 .top-section{
-background-color: #a2b9bc
 font-family: Arial, Helvetica, sans-serif;
 
 }
 
 body{
-background-color: #c4b7a6
+background-color: #c4b7a6;
 
 }
 
+.nav{
+    background-color: #c4b7a6;
+    text-align:initial;
+}
 .middle-section{
-background-color:#7ABACC
-font-family:Georgia, 'Times New Roman', Times, serif
+font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .lists{
 background-color: #e6e2d3;
+font-family: monospace;
 text-align: left;
 }
 .image{
 background-color: #c2b7a8d5;
 text-align: center;
 }
+
+.h1 {
+    color: #black;
+    text-align: center;
+font-family: magnat;
+  }
